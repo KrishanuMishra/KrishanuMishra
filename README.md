@@ -1,11 +1,13 @@
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="Coding"/>
+
 # 👑 About Me:
-Hi, I am Krishanu Mishra.<br/>
-I am a 2nd Year B.Tech(CSE) Student at Geetanjali Institute Of Technical Studies, Udaipur.</br>
-I am intrested in Web Development, Android Developement Machine Learning and 3D Modelling.
+Hi, I am *Krishanu Mishra*.<br/>
+I am a 2nd Year B.Tech(CSE) Student at **Geetanjali Institute Of Technical Studies, Udaipur.**</br>
+I am intrested in **Web Development, Android Developement Machine Learning and 3D Modelling.**
 
 ___
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/krishanumishra) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krishanu.mishra.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishanu_2314) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishanu-mishra-4a64b1212) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Scary-Cheek2768) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KrishMish23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCg6a_DnK7sxX7JfCziUqvUQ) 
 
 # 💻 Tech Stack:
