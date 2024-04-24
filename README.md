@@ -2,7 +2,7 @@
 
 # 👑 About Me:
 Hi, I am *Krishanu Mishra*.<br/>
-I am a 2nd Year B.Tech(CSE) Student at **Geetanjali Institute Of Technical Studies, Udaipur.**</br>
+I am a 4th Year B.Tech(CSE) Student at **Geetanjali Institute Of Technical Studies, Udaipur.**</br>
 I am intrested in **Web Development, Android Developement Machine Learning and 3D Modelling.**
 
 ___
